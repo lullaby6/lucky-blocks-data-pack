@@ -1,4 +1,4 @@
-execute store result score @s lucky_block.random run random value 1..48
+execute store result score @s lucky_block.random run random value 1..54
 
 execute if score @s lucky_block.random matches 1 run return run function lucky_block:random/summon/custom/functions/spawn/snow_fox
 execute if score @s lucky_block.random matches 2 run return run function lucky_block:random/summon/custom/functions/spawn/brown_panda
@@ -52,3 +52,10 @@ execute if score @s lucky_block.random matches 46 run return run function lucky_
 execute if score @s lucky_block.random matches 47 run return run function lucky_block:random/summon/custom/functions/spawn/op/item/trident
 
 execute if score @s lucky_block.random matches 48 run return run function lucky_block:random/summon/custom/functions/spawn/spectral_arrow
+
+execute if score @s lucky_block.random matches 49 run return run function lucky_block:random/summon/custom/functions/spawn/kit/chainmail
+execute if score @s lucky_block.random matches 50 run return run function lucky_block:random/summon/custom/functions/spawn/kit/diamond
+execute if score @s lucky_block.random matches 51 run return run function lucky_block:random/summon/custom/functions/spawn/kit/gold
+execute if score @s lucky_block.random matches 52 run return run function lucky_block:random/summon/custom/functions/spawn/kit/iron
+execute if score @s lucky_block.random matches 53 run return run function lucky_block:random/summon/custom/functions/spawn/kit/leather
+execute if score @s lucky_block.random matches 54 run return run function lucky_block:random/summon/custom/functions/spawn/kit/netherite
