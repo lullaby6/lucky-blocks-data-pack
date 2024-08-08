@@ -1333,4 +1333,7 @@ execute if score @s lucky_block.random matches 1330 run data modify storage luck
 execute if score @s lucky_block.random matches 1331 run data modify storage lucky_block:storage value set value "silence_armor_trim_smithing_template"
 execute if score @s lucky_block.random matches 1332 run data modify storage lucky_block:storage value set value "wayfinder_armor_trim_smithing_template"
 
+execute store result score @s lucky_block.random run random value 1..64
+execute store result storage lucky_block:storage count int 1 run scoreboard players get @s lucky_block.random
+
 function lucky_block:random/summon/item/summon with storage lucky_block:storage
