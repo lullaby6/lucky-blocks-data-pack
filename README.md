@@ -14,10 +14,17 @@ Kill/remove/delete/destroy all Lucky Blocks:
 /function lucky_block:clear
 ```
 
-Disable
+Disable:
 
+```mcfunction
+/datapack disable "file/lucky-blocks"
 ```
-/datapack disable
+
+Enable:
+
+```mcfunction
+/datapack enable "file/lucky-blocks"
+```
 
 ## License
 
