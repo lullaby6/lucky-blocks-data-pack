@@ -1,4 +1,4 @@
-function lucky_block:random/random
+function lucky_blocks:random/random
 
 kill @n[type=item,nbt={Item:{id:"minecraft:sponge",count:1}},distance=..1]
 

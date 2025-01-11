@@ -1,0 +1,1 @@
+execute if block ~ ~-1 ~ air run function lucky_blocks:block/destroy

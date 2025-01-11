@@ -29,7 +29,7 @@
                     "Invisible": true,
                     "PersistenceRequired": true,
                     "Tags": [
-                      "lucky_block.armor_stand"
+                      "lucky_blocks.armor_stand"
                     ],
                     "DisabledSlots": 4144959
                   }
