@@ -1,4 +1,4 @@
-# Lucky Block Data-Pack
+# Lucky Blocks
 
 ## Commands
 
