@@ -23,13 +23,13 @@ Kill/remove/delete/destroy all Lucky Blocks:
 Disable:
 
 ```mcfunction
-/datapack disable "file/lucky-blocks"
+/datapack disable "file/lucky-blocks.zip"
 ```
 
 Enable:
 
 ```mcfunction
-/datapack enable "file/lucky-blocks"
+/datapack enable "file/lucky-blocks.zip"
 ```
 
 ## License
