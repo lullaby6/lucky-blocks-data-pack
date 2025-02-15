@@ -1,9 +1,5 @@
 # Lucky Blocks
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_Bh-n7yIGQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 📖 Description
-
 This datapack is my own version of the Lucky Blocks, it doesn't require any texture pack, it shows the lucky block using the display entities of the new versions, in the lucky blocks surprises you can get any item, block, or loot from chests in the game, apart from that you can also get some traps, weapons and armor and heavily armed enemies.
 
 A perfect datapack to use in a multiplayer server and make lucky block races or use it in other kind of maps or adventures!
