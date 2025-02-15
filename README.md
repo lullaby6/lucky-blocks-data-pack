@@ -6,7 +6,15 @@ A perfect datapack to use in a multiplayer server and make lucky block races or 
 
 Version: 1.21.X
 
-## Commands
+## 📂 Installation
+
+Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
+
+## 👾 Bugs/Issues
+
+Please report any bug/issues to the [Discord Server](https://discord.gg/qUPpApHq) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/lucky-blocks-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/lucky-blocks-6524035).
+
+## ⌨️ Commands
 
 Give Lucky Block command:
 
@@ -32,6 +40,6 @@ Enable:
 /datapack enable "file/lucky-blocks.zip"
 ```
 
-## License
+## 🪪 License
 
-MIT
+[MIT](https://github.com/lullaby6/lucky-blocks-data-pack?tab=MIT-1-ov-file)
