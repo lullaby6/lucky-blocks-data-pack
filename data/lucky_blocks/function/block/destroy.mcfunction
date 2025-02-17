@@ -1,6 +1,6 @@
 function lucky_blocks:random/random
 
-kill @n[type=item,nbt={Item:{id:"minecraft:sponge",count:1}},distance=..1]
+kill @n[type=item,nbt={Item:{id:"minecraft:hay_block",count:1}},distance=..1]
 
 kill @s
 
