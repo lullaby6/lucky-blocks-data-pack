@@ -33,7 +33,7 @@
                     "DisabledSlots": 4144959
                   },
                   "minecraft:item_model": "minecraft:gold_block",
-                  "minecraft:custom_name": "{\"text\":\"Lucky Block\",\"italic\": false}"
+                  "minecraft:custom_name": {text:"Lucky Block",italic: false}
                 }
               }
             ]

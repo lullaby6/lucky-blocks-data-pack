@@ -1,6 +1,10 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["ggg", "gQg", "ggg"],
+  "pattern": [
+    "ggg",
+    "gQg",
+    "ggg"
+  ],
   "key": {
     "g": "minecraft:gold_ingot",
     "Q": "minecraft:quartz"
@@ -21,11 +25,13 @@
         "Small": true,
         "Invisible": true,
         "PersistenceRequired": true,
-        "Tags": ["lucky_blocks.armor_stand"],
+        "Tags": [
+          "lucky_blocks.armor_stand"
+        ],
         "DisabledSlots": 4144959
       },
       "minecraft:item_model": "minecraft:gold_block",
-      "minecraft:custom_name": "{\"text\":\"Lucky Block\",\"italic\": false}"
+      "minecraft:custom_name": {text:"Lucky Block",italic: false}
     }
   }
 }
