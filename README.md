@@ -17,16 +17,6 @@ This datapack is my own version of the Lucky Blocks, it doesn't require any text
 
 A perfect datapack to use in a multiplayer server and make lucky block races or use it in other kind of maps or adventures!
 
-Version: `1.21.4`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/lucky-blocks-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/lucky-blocks-6524035).
-
 ## 🛠️ Recipe
 
 ![recipe](https://raw.githubusercontent.com/lullaby6/lucky-blocks-data-pack/refs/heads/main/images/recipe.png)
@@ -59,4 +49,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/lucky-blocks-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/lucky-blocks-data-pack/blob/main/LICENSE)
