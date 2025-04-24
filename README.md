@@ -35,18 +35,6 @@ Delete all Lucky Blocks:
 /function lucky_blocks:clear
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/lucky-blocks.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/lucky-blocks.zip"
-```
-
 ## 🪪 License
 
-[Limited Embed License v1.0](https://github.com/lullaby6/lucky-blocks-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/lucky-blocks-data-pack/blob/main/LICENSE)
